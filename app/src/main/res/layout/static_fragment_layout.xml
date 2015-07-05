@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for static fragment-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/static_fragment_message"
+        android:textSize="@dimen/static_fragment_text_size"
+        android:gravity="center|center_vertical"
+        android:textStyle="bold"
+        />
+
+</LinearLayout>
