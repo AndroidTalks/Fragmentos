@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="manager_add_fragment_text">Add fragment</string>
+    <string name="manager_replace_fragment_text">Replace fragment</string>
+    <string name="first_dynamic_fragment_title">First Dynamic Fragment</string>
+    <string name="second_dynamic_fragment_title">Second Dynamic Fragment</string>
 </resources>
